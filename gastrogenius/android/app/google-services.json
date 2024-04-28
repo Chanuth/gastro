@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996856144923",
+    "project_id": "gastrogenius-4553c",
+    "storage_bucket": "gastrogenius-4553c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996856144923:android:607beded805e88275144be",
+        "android_client_info": {
+          "package_name": "com.example.gastrogenius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996856144923-iulthc90jchd9s00i3a47pfjeeco5jeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEhcBrWZoWtC1pwYJ_EtnuErUZ-XTqAuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996856144923-iulthc90jchd9s00i3a47pfjeeco5jeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
